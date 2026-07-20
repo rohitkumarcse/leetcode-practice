@@ -5,7 +5,7 @@ class Solution {
         int m = grid[0].length;
 
         int total = n * m;
-        k = k % total;
+        k = k ;
 
         for (int r = 0; r < k; r++) {
 
